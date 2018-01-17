@@ -1,8 +1,4 @@
-<style>
-table th:first-of-type {
-    width: 100px;
-}
-</style>
+
 
 # 〈API〉1.1.ゲストユーザ作成（標準化） {#title-text}
 
