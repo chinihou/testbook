@@ -29,11 +29,6 @@
 
 
 
-<style>
-table th:first-of-type {
-    width: 100px;
-}
-</style>
 
 
 
