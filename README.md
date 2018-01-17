@@ -37,7 +37,7 @@
 | 1 | Content-Type | ー | application/json | 固定値：<br/>application/json;charset=UTF-8 | 
 | 2 |  | charset | UTF-8 |  | 
 | 3 | x-minefocus-app | ー |  |  | 
-| 4 | x-device-machine-name | ー | システムデバイスID(マシン名) &lt;space&gt;OSバージョン |  | 
+| 4 | x-device-machine-name | ー |  |  | 
 | 5 | Authorization | Bearer | JWTトークン | ゲストユーザ作成APIのみ空白 | 
 
 ### 3.2.リクエストパラメータ／ボディ
