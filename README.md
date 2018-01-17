@@ -36,7 +36,7 @@
 | :--- | :---------- | :--------------- | :----- | :--------------- | 
 | 1 | Content-Type | ー | application/json | 固定値：<br/>application/json;charset=UTF-8 | 
 | 2 |  | charset | UTF-8 |  | 
-| 3 | x-minefocus-app | ー | ios&lt;space&gt;&lt;kCFBundleIdentifierKey&gt;&lt;space&gt;&lt;kCFBundleVersionKey&gt;<br/>OR<br/>android&lt;space&gt;パッケージ名&lt;space&gt;ビルドバージョン |  | 
+| 3 | x-minefocus-app | ー | iOS&lt;space&gt;&lt;kCFBundleIdentifierKey&gt;&lt;space&gt;&lt;kCFBundleVersionKey&gt;<br/>OR<br/>android&lt;space&gt;パッケージ名&lt;space&gt;ビルドバージョン |  | 
 | 4 |  | ー |  |  | 
 | 5 |  | ー |  |  | 
 | 6 |  | ー |  |  | 
