@@ -37,8 +37,8 @@
 | 1 | Content-Type | ー | application/json | 固定値：<br/>application/json;charset=UTF-8 | 
 | 2 |  | charset | UTF-8 |  | 
 | 3 | x-minefocus-app | ー | iOS&lt;space&gt;&lt;kCFBundleIdentifierKey&gt;&lt;space&gt;&lt;kCFBundleVersionKey&gt;<br/>OR<br/>android&lt;space&gt;パッケージ名&lt;space&gt;ビルドバージョン | iOS:<br/>ios<br/>jp.shiroyagi.kamelio 23<br/>Android：<br/>android jp.shiroyagi.kamelio 23 | 
-| 4 | x-device-machine-name | ー | システムデバイスID(マシン名) &lt;space&gt; OSバージョン |  | 
-| 5 |  | ー |  |  | 
+| 4 | x-device-machine-name | ー | システムデバイスID(マシン名) &lt;space&gt;OSバージョン |  | 
+| 5 | Authorization | Bearer | JWTトークン | ゲストユーザ作成APIのみ空白 | 
 | 6 |  | ー |  |  | 
 
 
