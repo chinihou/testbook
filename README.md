@@ -40,5 +40,8 @@
 | 4 | x-device-machine-name | ー | システムデバイスID(マシン名) &lt;space&gt;OSバージョン |  | 
 | 5 | Authorization | Bearer | JWTトークン | ゲストユーザ作成APIのみ空白 | 
 
+### 3.2.リクエストパラメータ／ボディ
+なし
 
+### 3.3.正常レスポンス
 
