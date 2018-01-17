@@ -1,5 +1,3 @@
-
-
 # 〈API〉1.1.ゲストユーザ作成（標準化） {#title-text}
 
 ## 修正履歴
@@ -23,6 +21,21 @@
 | **URL** | /api/v1/login/create_guest |
 
 * * JWTトークンを生成してAPPに返す
+
+
+
+
+
+
+
+
+<style>
+table th:first-of-type {
+    width: 100px;
+}
+</style>
+
+
 
 
 
