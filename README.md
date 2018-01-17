@@ -1,4 +1,4 @@
-# 〈API〉1.1.ゲストユーザ作成（標準化） {#title-text}
+# 〈API〉1.1.ゲストユーザ作成（標準化）
 
 ## 修正履歴
 
@@ -19,8 +19,6 @@
 | **Ver** | v1 |
 | **Method** | POST |
 | **URL** | /api/v1/login/create\_guest |
-
-
 
 ## 2.処理フロー
 
